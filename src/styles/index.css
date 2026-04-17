@@ -9,3 +9,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.contenedor {
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
